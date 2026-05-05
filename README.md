@@ -82,7 +82,7 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 ---
 
 ### 🚀 Adventure Works Sales Dashboard
-<img src="https://raw.githubusercontent.com/Nithin3006/adventure-works-sales-analysis/main/sales-dashboard.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Nithin3006/adventure-works-sales-analysis/main/Screenshot (241).png" width="100%" />
 - Processed **1M+ records**
 - Improved processing efficiency by **25%**
 - Built KPI dashboards for business insights

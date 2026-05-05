@@ -70,7 +70,7 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 ## 📂 Featured Projects
 
 ### 🚀 CRM Sales Funnel Dashboard
-<img src="https://raw.githubusercontent.com/Nithin3006/CRM-Sales-Funnel-Revenue-Analytics-Dashboard/main/crm-dashboard.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Nithin3006/CRM-Sales-Funnel-Revenue-Analytics-Dashboard/main/Screenshot (494).png" width="100%" />
 - Analyzed **50K+ CRM records**
 - Improved conversion rate by **8%**
 - Automated reporting workflows (30% effort reduction)

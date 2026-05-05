@@ -61,9 +61,9 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 ### 📌 Machine Learning Intern — Seventh Sense
 📍 Sep 2024 – Dec 2024
 
-- Built ML models achieving **87% accuracy**
-- Improved model performance by **12%**
-- Delivered predictive insights improving decisions by **20%**
+- Built ML models achieving 87% accuracy
+- Improved model performance by 12%
+- Delivered predictive insights improving decisions by 20%
 
 ---
 
@@ -71,8 +71,9 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 
 ### 🚀 CRM Sales Funnel Dashboard
 <img src="https://raw.githubusercontent.com/Nithin3006/CRM-Sales-Funnel-Revenue-Analytics-Dashboard/main/Screenshot (494).png" width="100%" />
-- Analyzed **50K+ CRM records**
-- Improved conversion rate by **8%**
+
+- Analyzed 50K+ CRM records
+- Improved conversion rate by 8%
 - Automated reporting workflows (30% effort reduction)
 
 🛠️ SQL, Python, Power BI  
@@ -83,8 +84,9 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 
 ### 🚀 Adventure Works Sales Dashboard
 <img src="https://raw.githubusercontent.com/Nithin3006/adventure-works-sales-analysis/main/Screenshot (241).png" width="100%" />
-- Processed **1M+ records**
-- Improved processing efficiency by **25%**
+
+- Processed 1M+ records
+- Improved processing efficiency by 25%
 - Built KPI dashboards for business insights
 
 🛠️ Excel, SQL, Tableau  

@@ -44,19 +44,6 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 
 ---
 
-## 📊 Core Skills
-
-<p align="center">
-
-<img src="https://progress-bar.dev/90/?title=SQL&width=500&color=38bdf8" />
-<img src="https://progress-bar.dev/90/?title=PowerBI&width=500&color=38bdf8" />
-<img src="https://progress-bar.dev/85/?title=Excel&width=500&color=38bdf8" />
-<img src="https://progress-bar.dev/75/?title=Python&width=500&color=38bdf8" />
-
-</p>
-
----
-
 ## 💼 Work Experience
 
 ### 📌 Data Analyst Intern — AI Variant
@@ -83,6 +70,7 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 ## 📂 Featured Projects
 
 ### 🚀 CRM Sales Funnel Dashboard
+<img src="https://raw.githubusercontent.com/Nithin3006/CRM-Sales-Funnel-Revenue-Analytics-Dashboard/main/crm-dashboard.png" width="100%" />
 - Analyzed **50K+ CRM records**
 - Improved conversion rate by **8%**
 - Automated reporting workflows (30% effort reduction)
@@ -90,9 +78,11 @@ I specialize in building **end-to-end MIS reporting systems and dashboards** tha
 🛠️ SQL, Python, Power BI  
 🔗 https://github.com/Nithin3006/CRM-Sales-Funnel-Revenue-Analytics-Dashboard  
 
+
 ---
 
 ### 🚀 Adventure Works Sales Dashboard
+<img src="https://raw.githubusercontent.com/Nithin3006/adventure-works-sales-analysis/main/sales-dashboard.png" width="100%" />
 - Processed **1M+ records**
 - Improved processing efficiency by **25%**
 - Built KPI dashboards for business insights
